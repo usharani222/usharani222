@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Android Development<br>🌱 I’m currently learning AI<br>⚡Student @ GVPCDPGC || Web Developer @ Spotmies LLP || Tech Enthusiast
+🔭 I’m currently working on Android Development<br>🌱 I’m currently learning AI<br>⚡Student @ GVPCDPGC  || Tech Enthusiast
 
 
 ## 🌐 Socials:
