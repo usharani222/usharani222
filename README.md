@@ -1,21 +1,47 @@
-# 💫 About Me:
-🔭 I’m currently working on Android Development<br>🌱 I’m currently learning AI<br>⚡Student @ GVPCDPGC  || Tech Enthusiast
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/usha-rani-a26098264) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=usharani222&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=usharani222&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=usharani222&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=usharani222&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<h1 align="center">Hi there! I'm Usha Rani ✨</h1>
+<p align="center">
+  <img src="https://private-user-images.githubusercontent.com/74038190/290079079-231375ce-58a3-4c3b-85c8-44ea51d1318f.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTAwNzUwMDgsIm5iZiI6MTc1MDA3NDcwOCwicGF0aCI6Ii83NDAzODE5MC8yOTAwNzkwNzktMjMxMzc1Y2UtNThhMy00YzNiLTg1YzgtNDRlYTUxZDEzMThmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MTYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjE2VDExNTE0OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWU3Y2Q3YWJmOTQ0ZTgyYjQzMzFkYjhlOTQ3ZTBiYjJjM2Y3Njk2MzIwYzk4NDk0OTBmODQxNjRhOTg4MzgxMGUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.VjSo8o7gLaCAEtwGSlWgZgkzO4JQSQ0aHqUQalyaouc" width="300" alt="Girl Coding">
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Tech+Enthusiast+%F0%9F%92%BB;Building+tech+with+heart+%E2%9C%A8;Open+Source+%7C+Web+Dev+%7C+;Always+learning%2C+always+growing+%F0%9F%8C%B1" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=usharani222&icon=0&color=0)](https://visitcount.itsvg.in)
+### 🛠 Tech Stack
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,cpp,python,mysql,mongodb,firebase,git,github,docker,vscode,linux" />
+</p>
+
+---
+### ✨ GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=usharani222&theme=dracula&show_icons=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=usharani222&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top languages graph" />
+  <br/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=usharani222&theme=dracula&hide_border=false" />
+</p>
+
+---
+
+### 🌺 Let's Connect!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/usha-rani">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:usha78633@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a>
+    <img src="https://komarev.com/ghpvc/?username=usharani222&style=for-the-badge&color=ff69b4" alt="Profile views"/>
+  </a>
+</p>
+
+
+---
+<p align="center">
+  <i>"Code with confidence, debug with grace, and build with passion 💖"</i>
+</p>
